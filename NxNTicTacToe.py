@@ -23,7 +23,7 @@
 #  Date:        February 26, 2017
 #
 #*******************************************************************
-import games
+import TicTacToe
 import player
 import re
 import string
